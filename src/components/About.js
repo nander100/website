@@ -1,6 +1,6 @@
 import React from 'react';
 import { Mail, Linkedin, Github } from 'lucide-react';
-import SectionTitle from '../SectionTitle';
+import SectionTitle from './SectionTitle';
 
 const About = () => {
   return (

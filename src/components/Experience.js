@@ -1,6 +1,6 @@
 import React from 'react';
-import SectionTitle from '../SectionTitle';
-import ExperienceItem from '../ExperienceItem';
+import SectionTitle from './SectionTitle';
+import ExperienceItem from './ExperienceItem';
 
 const Experience = () => {
   const experiences = [

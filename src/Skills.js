@@ -1,5 +1,5 @@
 import React from 'react';
-import SectionTitle from './components/SectionTitle';
+import SectionTitle from './SectionTitle';
 import SkillCategory from './SkillCategory';
 
 const Skills = () => {

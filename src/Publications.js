@@ -1,6 +1,6 @@
 import React from 'react';
 import SectionTitle from './SectionTitle';
-import PublicationItem from './components/PublicationItem';
+import PublicationItem from './PublicationItem';
 
 const Publications = () => {
   const publications = [

@@ -1,6 +1,6 @@
 import React from 'react';
 import SectionTitle from './SectionTitle';
-import ProjectCard from './components/ProjectCard';
+import ProjectCard from './ProjectCard';
 
 const Projects = () => {
   const projects = [
